@@ -18,3 +18,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# npm 源不对，上传打包错误，所以不上传
+package-lock.json
